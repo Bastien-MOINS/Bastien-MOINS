@@ -1,8 +1,12 @@
 # 💫About Me :
 🔎 I'm currently working on personal project for a retro video game of snake. And university projects centered around mobile app, machine learning, API REST, graph database,...
+
 🤝I'm looking to collaborate on video games development projects or an internship based on app/web development, data analysis or other professional body around computer science
+
 🌱 I'm currently learning C language program, Machine Learning on Python, the framework django, graph database with cypher.
+
 💬 Ask me about anything concerning computer science or if you're curious about University Bachelor of Technology in computer science, currently in my 3rd year
+
 ⚡Fun fact : I like to work alone but I need someone to push me further on my projects. Who would like to be my coach?
 
 ## 🌐Socials
@@ -16,6 +20,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Bastien-MOINS&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ### 😂Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
+<img src="./Syndrome Github User.jpeg" width="512px"/>
+
 ---
 [![](https://visitcount.itsvg.in/api?id=Bastien-MOINS&icon=0&color=0)](https://visitcount.itsvg.in)
